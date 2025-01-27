@@ -1,0 +1,11 @@
+chat_model:
+  'model': "mistral:latest"
+  'temperature': 0.75
+  'num_gpu': 1
+
+
+vector_database:
+  chroma:
+
+
+chat_session_path: './chat_session/'
