@@ -16,7 +16,7 @@ An AI-powered chat application using text, audio, and images for context-aware r
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Multimodal-RAG.git
+    git clone https://github.com/Ahmed-AI-01/Multimodal-RAG.git
     cd Multimodal-RAG
     ```
 
