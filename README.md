@@ -50,14 +50,14 @@ An AI-powered chat application using text, audio, and images for context-aware r
 
 ## Project Structure
 
-- [app.py](http://_vscodecontentref_/2): Main application file for Streamlit.
-- [audio_processor.py](http://_vscodecontentref_/3): Handles audio processing for speech-to-text and text-to-speech.
-- [llama_cpp_chains.py](http://_vscodecontentref_/4): Implements Llama-based language model chains.
-- [ollama_chain.py](http://_vscodecontentref_/5): Implements Ollama-based language model chains and RAG chains.
-- [pdf_handler.py](http://_vscodecontentref_/6): Handles PDF loading and splitting.
-- [utils.py](http://_vscodecontentref_/7): Utility functions, including configuration loading.
-- [vectorstore.py](http://_vscodecontentref_/8): Manages vector database setup and indexing.
-- [vqa.py](http://_vscodecontentref_/9): Handles visual question answering and audio transcription.
+- [app.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/app.py): Main application file for Streamlit.
+- [audio_processor.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/audio_processor.py): Handles audio processing for speech-to-text and text-to-speech.
+- [llama_cpp_chains.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/llama_cpp_chains.py): Implements Llama-based language model chains.
+- [ollama_chain.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/ollama_chain.py): Implements Ollama-based language model chains and RAG chains.
+- [pdf_handler.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/pdf_handler.py): Handles PDF loading and splitting.
+- [utils.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/utils.py): Utility functions, including configuration loading.
+- [vectorstore.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/vectore_store.py): Manages vector database setup and indexing.
+- [vqa.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/vqa.py): Handles visual question answering and audio transcription.
 
 ## License
 
