@@ -51,17 +51,17 @@ An AI-powered chat application using text, audio, and images for context-aware r
 ## Project Structure
 
 - [app.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/app.py): Main application file for Streamlit.
-- [audio_processor.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/audio_processor.py): Handles audio processing for speech-to-text and text-to-speech.
-- [llama_cpp_chains.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/llama_cpp_chains.py): Implements Llama-based language model chains.
-- [ollama_chain.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/ollama_chain.py): Implements Ollama-based language model chains and RAG chains.
-- [pdf_handler.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/pdf_handler.py): Handles PDF loading and splitting.
-- [utils.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/utils.py): Utility functions, including configuration loading.
-- [vectorstore.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/vectore_store.py): Manages vector database setup and indexing.
-- [vqa.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/vqa.py): Handles visual question answering and audio transcription.
+- [audio_processor.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/audio_processor.py): Handles audio processing for speech-to-text and text-to-speech.
+- [llama_cpp_chains.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/llama_cpp_chains.py): Implements Llama-based language model chains.
+- [ollama_chain.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/ollama_chain.py): Implements Ollama-based language model chains and RAG chains.
+- [pdf_handler.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/pdf_handler.py): Handles PDF loading and splitting.
+- [utils.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/utils.py): Utility functions, including configuration loading.
+- [vectorstore.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/vectore_store.py): Manages vector database setup and indexing.
+- [vqa.py](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/src/vqa.py): Handles visual question answering and audio transcription.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](http://_vscodecontentref_/10) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/Ahmed-AI-01/Multimodal-RAG/edit/main/LICENSE) file for details.
 
 ## Acknowledgements
 
